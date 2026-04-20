@@ -1,7 +1,7 @@
  # Task Manager — User Guide
 
   **Version:** 1.0
-  **Last updated:** April 2026
+  **Last updated:** 20 April 2026
   **Audience:** End users with no prior experience
 
   ---
